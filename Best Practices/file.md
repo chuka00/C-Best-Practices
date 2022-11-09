@@ -1,4 +1,6 @@
 ```c#
+
+Below are some very important best practices we need to adopt inorder to become world class programmers
 1. Use searchable names
 I am sure that more than once you forget where something is and you start looking for that something but you can’t find it because you don’t remember what name you gave to the variable or directly, you don’t remember if you named that constant. For your better understanding:
 
